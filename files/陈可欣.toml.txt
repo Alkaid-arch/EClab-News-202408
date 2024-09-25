@@ -1,0 +1,14 @@
+[editor] 
+name = "Kexin Chen" # 格式类似于Shuoan Li 
+degree = "Undergraduate, 2023" # 格式类似于Undergraduate, 2022 
+ 
+[article.1] # 罗马数字指定文献编号 
+title = "文献标题" 
+doi = "文献doi" # 以https://doi.org/开头 
+authors = "文献作者" 
+journal = "期刊名" 
+publish = "期刊发布信息" # 如发发布年份，期号，卷号，页码 
+category = "分类" # Emotion, Face, Culture等，注意首字母大写 
+summary = "你的概括" # 中文的概括 
+abstract = "文献摘要" 
+keywords = "关键词" # 用英文逗号分隔
