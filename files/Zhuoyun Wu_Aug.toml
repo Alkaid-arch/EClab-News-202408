@@ -1,0 +1,69 @@
+[editor]
+name = "Zhuoyun Wu"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Sex differences in the longitudinal associations of emotional states and disinhibited eating"
+doi = "https://doi.org/10.1007/s12144-024-06102-5"
+authors = "Guangcan Xiang, Yiru Du, Xiaoli Du"
+journal = "Current Psychology"
+publish = "Volume 43, pages 24429–24437, 2024"
+category = "Emotion"
+summary = "该研究在中国对1062名青少年进行了为期六个月的纵向调查，发现负面情绪与无节制进食在女孩中呈双向关联模式，而在男孩中表现为“无节制进食→负面情绪”的单向预测模式。"
+abstract = "Recent studies have consistently supported that negative affect has been broadly implicated in the onset and maintenance of disinhibited eating among females, while few studies have longitudinally explored the association between emotional states and disinhibited eating both in males and females. This study aimed to explore the sex differences in the longitudinal associations of emotional states (containing both positive affect and negative affect) and disinhibited eating over a six-month time span among 1062 adolescents (baseline Mage = 14.77 years; 41.8% boys) from China. The data were collected in two waves (baseline and six months later), during which adolescents reported their emotional states (positive and negative affect) and disinhibited eating using the Positive and Negative Affect Schedule and the Three Factor Eating Questionnaire. Cross-lagged panel models were applied to examine the stability, cross-sectional relations, and cross-lagged effects between adolescents' emotional states and disinhibited eating over time. The results support a reciprocal relations model of negative affect and disinhibited eating in adolescent girls, and a prediction model of 'disinhibited eating→negative affect' in adolescent boys. Our findings advanced the literature by elucidating sex differences in the longitudinal relations between emotional states and disinhibited eating."
+keywords = "Disinhibited eating, Emotional states, Longitudinal relations, Cross-lagged panel model, Sex differences"
+
+[article.2]
+title = "Gender differences in individual emotion recognition in threatening situations: an eye-tracking study"
+doi = "https://doi.org/10.1007/s12144-024-06189-w"
+authors = "Liang He, Peng Zhang, Jingyu Kong, Haoyang Bai, Yuetan Wang, Xiaobin Ding"
+journal = "Current Psychology"
+publish = "Volume 43, pages 24595–24607, 2024"
+category = "Emotion"
+summary = "该研究结合迫选情绪识别任务和眼动技术，探讨了威胁情境下个体情绪识别中的性别差异。结果显示，在愤怒和恐惧任务中，男性在目标区域的总注视时长和总注视点数量高于女性。在不同性别组合下，女性对目标角色（恐惧情绪）的注视时长、注视点数量和首次注视时间更长。"
+abstract = "Accurately and quickly identifying other people's emotional information is an important social cognitive ability. Social interaction situations usually regulate individuals' emotional recognition in two ways: consistency situations and functional-relationship situations. However, when considering the gender factors of the two in threatening social interaction situations, relevant research on individual emotion recognition is still limited. Therefore, this study combined a forced-choice emotion recognition task with eye-tracking technology to explore gender differences in individuals' emotion recognition in threatening situations. Our results found that the total fixation duration and the total fixation point number in the target area of interest of men under the conditions of anger and fear tasks were higher than in women. Under the conditions of different gender combinations of materials and characters, women looked at the target character (fear emotion) for a longer total fixation duration, a higher total fixation point number, and an earlier first fixation time. The above research results indicate that individuals have gender effects in the task of identifying different emotion types in threatening social interaction situations. There is a gender effect on the characters in the experimental materials. This study provides new ideas for further research on gender differences in emotion recognition in the future."
+keywords = "Anger, Fear, Emotion recognition, Threatening situations, Eye tracking"
+
+[article.3]
+title = "Electrophysiological correlates of social anxiety modulating the effect of emotion on cognitive control"
+doi = "https://doi.org/10.1007/s12144-024-06209-9"
+authors = "Feng Si, Shuhui Huo, Xiwu Zhao, Haibo Yang, Fei Yin, Zhengjun Wang, Jianqin Cao"
+journal = "Current Psychology"
+publish = "Volume 43, pages 25016–25024, 2024"
+category = "Emotion"
+summary = "该研究探讨社交焦虑对情绪对认知控制效应的调节作用。高社交焦虑（HSA）个体在面对威胁词汇时反应速度较慢，而低社交焦虑（LSA）个体未显示情绪效应。事件相关电位（ERP）数据显示LSA中中性词汇引发的N2较威胁词汇更负，而在HSA中无显著差异。时频表示（TFR）数据表明LSA中中性词汇引发的θ波同步较威胁词汇更强。"
+abstract = "Ability to focus attentional resources on a task is a necessary component of healthy cognitive regulation, which is necessary for normal emotional and cognitive processes, while avoiding distractions that aren’t related to the task at hand. However, anxiety may impair the inhibitory and transfer functions of attention. Therefore, in order to explore the modulation of social anxiety on the effect of emotion on cognitive control, individuals with high social anxiety (HSA) and low social anxiety (LSA) completed the emotional Stroop task with the neutral stimuli presented first, followed by the social threat stimuli. The HSA participants exhibited a slower response to threats than neutral words, whereas there was no emotional effect for the LSA participants. Event-Related Potential (ERP) data revealed that N2 was more negative elicited by neutral words than threat ones in the LSA, but not significant in HSA. Time–Frequency Representation (TFR) data showed enhanced theta synchronization elicited by neutral words than threat words in the LSA only. These findings provided new electrophysiological correlates for social anxiety modulating the effect of emotion on cognitive control."
+keywords = "Social Anxiety, Emotional Stroop Task, Cognitive Control, Event-related Potential, Time-Frequency Representation"
+
+[article.4]
+title = "Winter is coming: Deciphering the longitudinal associations between everyday emotion regulation and depressive symptoms across the seasons"
+doi = "https://doi.org/10.1007/s12144-024-06114-1"
+authors = "Ana-Maria Strakosch, Katrin Schulze, Annemarie Miano, Luise Pruessner, Sven Barnow"
+journal = "Current Psychology"
+publish = "Volume 43, pages 25108–25123, 2024"
+category = "Emotion"
+summary = "该研究探究了情绪调节与季节性抑郁症状波动之间的动态互动。研究发现，从夏季到初冬，抑郁症状和沉思均呈上升趋势，而接受感受的运用则逐渐减少。研究显示整体上更多地运用接受感受策略的参与者表现出更低的抑郁症状。相反，更多地采用抑制、沉思和重新评估策略的参与者呈现更高的抑郁症状，其中沉思和重新评估策略是症状严重性的时间前体。"
+abstract = "The dynamic interplay between emotion regulation and seasonal fluctuations in depressive symptoms remains poorly understood. Our study therefore investigated the prospective relationship between everyday emotion regulation and depressive symptoms across summer, autumn, early winter, and late winter. At each season, participants (N = 194) were asked to report their use of emotion regulation strategies (rumination, suppression, reappraisal, acceptance) using ecological momentary assessment, and to fill in online questionnaires. We observed an increase in depressive symptoms and rumination from summer to early winter, while acceptance decreased over the seasons. Participants with an overall higher use of acceptance demonstrated lower depressive symptoms. In contrast, participants showing a greater engagement in suppression, rumination, and reappraisal exhibited higher depressive symptoms, with the latter two strategies emerging as temporal precursors of symptom severity. These findings highlight the clinical importance of emotion regulation in explaining seasonal fluctuations in depressive symptoms."
+keywords = "Emotion regulation, Depressive symptoms, Ecological momentary assessment, Rumination, Reappraisal, Acceptance"
+
+[article.5]
+title = "Regulating test anxiety by aesthetic musical emotions: based on the mutual promotion and mutual counteraction (MPMC) theory of affect"
+doi = "https://doi.org/10.1007/s12144-024-06220-0"
+authors = "Cheng Gao, Chang Liu, Luyao Jiang, Junyi Hao, Shao-zhen Feng, Jun Ding"
+journal = "Current Psychology"
+publish = "Volume 43, pages 25153–25169, 2024"
+category = "Emotion, Music"
+summary = "该研究旨在探索基于情感的相互促进和相互抵消理论，对测试焦虑的短期干预效果中美学音乐情感和日常积极情感之间是否存在差异。结果显示，崇高音乐对持续干预测试焦虑效果最佳，喜剧音频次之，而活力音乐效果略弱。研究表明，在缓解测试焦虑时，音乐流派可能是一个重要因素。"
+abstract = "The aim of the study was to explore whether there are differences in the effects of temporary and short-term interventions for test anxiety (TA) between aesthetic musical emotions and everyday positive emotions based on the mutual promotion and mutual counteraction (MPMC) theory of affect. In Study 1, one hundred and three valid participants with high TA (38 males, 23.29  ± 1.05 years old on average) were equally divided into three groups by matching, and different genres of audio materials (comedic audio, vital music, sublime music) were used to induce different types of emotions (everyday positive emotions, vital music emotions, sublime music emotions) in order to test the effect of temporary intervention on TA. In Study 2, a one-week short-term intervention was conducted based on the former study to further investigate the effects of different audio types in alleviating TA. The results showed an experimental dissociation from Study 1, demonstrating that sublime music had the best effect on sustained intervention of TA, followed by comedic audio, and the effect of vital music was slightly weaker than the previous two. Findings suggest that music genre may be an important factor that should not be overlooked when alleviating TA with music."
+keywords = "Test anxiety, Aesthetic musical emotion, The MPMC theory of affect, Temporary intervention, Short-term intervention"
+
+[article.6]
+title = "Individualism, collectivism, and emotion regulation: a cross-cultural examination among young adults from seven countries"
+doi = "https://doi.org/10.1007/s12144-024-06226-8"
+authors = "Neelamberi D. Klein, Adrian J. Bravo, Christopher C. Conway, Matthew T. Keough, Angelina Pilatti, Laura Mezquita, Cross-Cultural Addictions Study Team"
+journal = "Current Psychology"
+publish = "Volume 43, pages 26007–26018, 2024"
+category = "Emotion"
+summary = "该研究探讨了个体主义与集体主义以及垂直与水平态度在情绪调节策略使用中的作用。研究发现，个体主义与集体主义以及垂直与水平态度与年轻成人的情绪调节风格存在紧密联系。水平个体主义和水平集体主义与更高的重评策略使用相关，而水平个体主义和垂直集体主义与更高的抑制策略使用相关。水平集体主义则与较低的抑制策略使用相关。多组模型支持这些关联在不同国家间的普适性。"
+abstract = "Individualism and collectivism are dimensions of cultural variation thought to shape differences in emotion regulation tendencies, yet research to date has examined these cultural dimensions as country-level features, emphasizing variability across nations. The present study takes the approach of examining cultural differences within nations as predictors of emotion regulation strategies, shifting the perspective instead to individual differences. This present study aimed to address how individual endorsement of individualism-collectivism (i.e. prioritizing individual versus group goals) and vertical-horizontal attitudes (preference for hierarchy versus equality) are associated with use of emotion regulation strategies (i.e., reappraisal and suppression) among college students from seven countries (n = 5,900; female = 70.80%). Overall, we found that individual differences in individualism-collectivism and vertical-horizontal attitudes had strong connections with young adults’ emotion regulation styles. Results of our multivariate (i.e., all variables were simultaneously examined) regression model revealed: a) higher endorsement of horizontal individualism and horizontal collectivism were associated with higher use of reappraisal strategies; b) higher endorsement of horizontal individualism and vertical collectivism were associated with higher use of suppression strategies; while higher endorsement of horizontal collectivism was associated with lower use of suppression strategies. A multi-group model supported the generalizability of these associations across countries. These findings demonstrate the value of approaching cultural differences in emotion regulation from an individual differences framework, and not assuming country-level differences are representative of individuals' affective experiences. Further work is needed examining models within-country to examine cultural variation in individualism vs collectivism compared to country-level norms."
+keywords = "Individualism, Collectivism, Emotion regulation, Cross-cultural, Young adults"
