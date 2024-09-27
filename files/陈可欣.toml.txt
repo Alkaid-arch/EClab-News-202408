@@ -1,0 +1,47 @@
+[editor] 
+name = "Kexin Chen" 
+degree = "Undergraduate, 2023"  
+ 
+[article.1]  
+title = "Shifts in Facial Impression Structures Across Group Boundaries" 
+doi = "https://doi.org/10.1177/19485506231193180"  
+authors = "Youngki Hong & Jonathan B. Freeman" 
+journal = "Social Psychology and Personality Science" 
+publish = "Volume 15,issue 6,page 619-629"  
+category = "Face"  
+summary = "本研究让被试参与了两项关于做出社会判断的在线实验，发现面部印象结构的两个核心维度——可信度和支配性，是灵活的，可以在不同群体背景下发生变化。"
+abstract = "Facial impressions have long been argued to be driven by two independent dimensions of trustworthiness and dominance. However,in an intergroup context,we reasoned that these dimensions may shift predictably and become more positively related for ingroup members,yet negatively related for outgroup members,due to dominance signaling outgroup threat and/or ingroup prosociality.In two studies,we examined how the two dimensions shift across minimal group boundaries for White targets.In Study 1,core dimensions of trustworthiness and dominance became intertwined with each other differently for ingroup and outgroup targets.In Study 2,stronger stereotypic beliefs that trustworthiness dominance for ingroup than outgroup mediated the shifts in facial impression dimensions.This work advances our understanding of facial impressions and intergroup bias by showing that the facial impression dimensions are not fixed but may shift across group boundaries and that such shifts occur above and beyond simple ingroup favoritism." 
+keywords = "person perception,minimal group paradigm,faces,trustworthiness,dominance" 
+
+[article.2]  
+title = "Emotion beliefs and goal setting: Malleability of emotion predicts changes in goal orientation" 
+doi = "https://doi.org/10.1007/s11031-024-10074-1"  
+authors = "Soto, J.A., Salomaa, A.C. & Daas, R." 
+journal = "Motivation & Emotion" 
+publish = "Volume 48,issue 4,pages 589–605,05 June 2024"  
+category = "Emotion"  
+summary = "为了考察情绪信念（即认为情绪是可塑的还是固定的）在学业成就中的作用，本研究收集了本科生在考试前后的情绪和目标导向，发现情绪信念调节了学业情绪与目标导向变化之间的关系，但情绪信念不可直接预测学业表现。"
+abstract = "Research has demonstrated that lay beliefs about emotions (i.e., whether they are viewed as malleable or fixed) may shape important outcomes in educational performance. Given the prominent role of emotions in learning and goal setting, the present study examined whether emotion beliefs moderated (1) the relationship between the experience of academic emotions and grades and (2) the relationship between academic emotions and shifts in goal setting. Undergraduate students (N =329) enrolled in an introductory psychology course reported on their emotions and goal orientations across two waves of data collection which took place before and after their first two exams. Multiple regression analyses revealed that emotion beliefs moderated the relationship between academic emotions and changes in goal orientation across the semester. Specifically, greater experience of negative outcome-related emotions was associated with decreases in mastery- and performance-avoidance goal orientations among individuals who tended to view emotions as more malleable. On the other hand, for students who felt their emotions were more fixed, change in avoidance goals was not influenced by negative outcome emotions. Our results point to the added benefit in students viewing emotions as malleable, as this perspective may lead to students disengaging less with course material (i.e., decreasing avoidance goal orientations) after learning experiences marked by negative emotions. Overall, our findings provide preliminary support for the inclusion of emotion beliefs in models of academic achievement. "
+keywords = "Emotion regulation difficulties ,Latent profile analysis,Adult attachment,Sociotropy (dependence) and autonomy (self-criticism),Profile similarity analysi" 
+
+[article.3]  
+title = "Context-dependent basic and moral emotions in adults with autism" 
+doi = "https://doi.org/10.1007/s11031-024-10079-w"  
+authors = "Bleier, C., Peralta, V., Holguín, C. et al" 
+journal = "Motivation & Emotion" 
+publish = "Volume 48,issue 4,pages 606–620,26 June 2024"  
+category = "Affect"  
+summary = "本研究采用道德情感任务、情境情绪识别任务和自我报告测量等，发现患有自闭症的成年人在识别情境相关的基本情绪和道德情绪方面的表现低于神经正常的个体，但述情障碍特征或内感觉知觉与情境相关的基本情绪和道德情绪识别无关。"  
+abstract = "While social communication and interaction deficits are inherent in autism spectrum disorder (ASD), the evidence regarding difficulties in basic and moral emotion recognition remains inconclusive. Previous research has predominantly focused on the recognition of basic emotions, using stimuli that lack context and overlooking the influence of alexithymia and interoceptive awareness traits. This study sought to investigate the recognition of contextualized basic and moral emotions, as well as the subjective experience of the second ones in adults with ASD (n = 32) and neurotypical peers (n = 33). We also examined its relationship with alexithymia and interoceptive awareness traits. Basic emotion recognition was assessed using a task incorporating facial and body cues in congruent and incongruent contexts. In addition, we used a modified version of the Moral Sentiment Task to examine recognition and subjective experience of self-conscious (guilt and embarrassment) and other-oriented (pity and indignation) moral emotions. Self-report scales were used to collect data on alexithymia and interoceptive awareness traits. Adults with ASD exhibited lower performance in recognizing contextual basic and moral emotions compared to neurotypical individuals. However, neither alexithymia traits nor interoceptive awareness were associated with the recognition of contextual basic or moral emotions. These findings contribute to a better understanding of social deficits in ASD, highlighting the potential benefit of developing new diagnostic assessments and non-pharmacological intervention targets."
+keywords = "Alexithymia,Autism spectrum disorder,Contextual basic emotions,Interoceptive awareness,Moral emotions,Social cognition" 
+
+[article.4]  
+title = "The neurobiology of aesthetic chills: How bodily sensations shape emotional experiences" 
+doi = "https://doi.org/10.3758/s13415-024-01168-x"  
+authors = "Schoeller, F., Jain, A., Pizzagalli, D.A. et al" 
+journal = "Cognitive, Affective & Behavioral Neuroscience" 
+publish = "Volume 24, issue 4, pages 617–630,21 February 2024"  
+category = "Emotion"  
+summary = "本篇综述介绍了审美战栗（AC）背后的神经机制，强调了理解身体感觉如何塑造情绪体验的关键问题。AC可以对情绪障碍产生积极影响，有可能改变消极的自我信念。"
+abstract = "The phenomenon of aesthetic chills—shivers and goosebumps associated with either rewarding or threatening stimuli—offers a unique window into the brain basis of conscious reward because of their universal nature and simultaneous subjective and physical counterparts. Elucidating the neural mechanisms underlying aesthetic chills can reveal fundamental insights about emotion, consciousness, and the embodied mind. What is the precise timing and mechanism of bodily feedback in emotional experience? How are conscious feelings and motivations generated from interoceptive predictions? What is the role of uncertainty and precision signaling in shaping emotions? How does the brain distinguish and balance processing of rewards versus threats? We review neuroimaging evidence and highlight key questions for understanding how bodily sensations shape conscious feelings. This research stands to advance models of brain-body interactions shaping affect and may lead to novel nonpharmacological interventions for disorders of motivation and pleasure."
+keywords = "Chills,Dopamine,Precision,Reward,Learning,Music,Film,Emotional,Valence,Arousal" 
