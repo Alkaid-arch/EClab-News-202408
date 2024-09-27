@@ -1,0 +1,14 @@
+[editor]
+name = "Feiyu Zhang"
+degree = "Undergraduate, 2022"
+
+[article.1]
+title = "Exploring Emotions Through Co-speech Gestures: The Caveats and New Directions"
+doi = "https://doi.org/10.1177/17540739241277820"
+authors = "Zeynep Aslan, Demet Özer & Tilbe Göksun"
+journal = "Emotion Review"
+publish = "Volume 16, issue 4, 30 August 2024"
+category = "Non-verbal"
+summary = "协同语音的手势既是突出表达的身体线索，也是语言不可或缺的一部分，为研究情感交流提供了丰富的途径。尽管如此，与认知功能相比，对协同语音手势的情绪功能的研究关注较少。本综述旨在阐明协同语音手势和情感之间相互作用的现状，特别关注手势在表达和理解他人和自己的情绪中的作用。"
+abstract = "Co-speech hand gestures offer a rich avenue for research into studying emotion communication because they serve as both prominent expressive bodily cues and an integral part of language. Despite such a strategic relevance, gesture-speech integration and interaction have received less research focus on its emotional function compared to its cognitive function. This review aims to shed light on the current state of the field regarding the interplay between co-speech hand gestures and emotions, focusing specifically on the role of gestures in expressing and understanding both others’ and one's own emotions. The article concludes by addressing current limitations in the field and proposing future directions for researchers investigating gesture-emotion interaction. Our goal is to provide a roadmap to researchers in their exploration of the role of gestures in emotions, ultimately contributing to a more comprehensive understanding of how gestures and emotions intersect."
+keywords = "emotion, hand gesture, multimodal, language"
